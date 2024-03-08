@@ -15,7 +15,6 @@ return new class extends Migration
             $table->string('nameProject' )->required(); 
             $table->string('nameSecteur' )->required(); 
             $table->text('argent'); 
-            $table->text('binomeName'); 
             $table->boolean('binome')->default(false); 
         });
     }
