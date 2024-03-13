@@ -69,7 +69,7 @@
       
 
     <footer id="footer">
-        <p class="d-inline-block align-text-bottom">Tous droits réservés, © theSPACE 2024
+        <p class="d-inline-block align-text-bottom">Tous droits réservés, © 2024 theSPACE
         </p>
     </footer>
     <script src="{{asset('js/index.js')}}"></script>
